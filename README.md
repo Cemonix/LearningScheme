@@ -7,3 +7,4 @@ A personal repository for learning Scheme (Guile) from scratch. Contains small p
 - Factorial (tail-recursive with accumulator)
 - Fibonacci
 - `map` reimplementation
+- Fourier Epicycles renderer (`epicycles.scm`) — takes a 2D path, runs a DFT, extracts frequency/amplitude/phase components, and renders the reconstructed path as a PPM image
